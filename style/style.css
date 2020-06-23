@@ -1,0 +1,36 @@
+body{
+    background-image: url("../Images/back.jpg");
+    
+}
+
+nav{
+    background-color:#faac87;
+    font-weight: bolder;
+    color:#fff0fd
+}
+
+.navbar-brand{
+    font-size: x-large;
+    padding: 7px 40px 7px 40px;
+    font-weight: bolder;
+}
+
+.nav-link{
+    color:#fff0fd
+}
+
+a:hover{
+    color: #d163ed;
+}
+
+.card{
+    background-color: #fff0fd;
+    padding: 20px;
+    margin-top: 20px;
+}
+
+form{
+    background-color: #fff0fd;
+    padding: 20px;
+    margin-top: 20px;
+}
