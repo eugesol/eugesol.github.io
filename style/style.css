@@ -20,7 +20,7 @@ nav{
 }
 
 a:hover{
-    color: #d163ed;
+    color: hsl(288, 93%, 82%);
 }
 
 .card{
@@ -33,4 +33,28 @@ form{
     background-color: #fff0fd;
     padding: 20px;
     margin-top: 20px;
+}
+
+button{
+    align-self: auto;
+}
+/* 
+footer{
+  min-height: 100vh;
+  justify-content: space-between;
+} */
+
+/* Sticky Footer Classes */
+
+html,
+body {
+  height: 100%;
+}
+
+#page-content {
+  flex: 1 0 auto;
+}
+
+#sticky-footer {
+  flex-shrink: none;
 }
