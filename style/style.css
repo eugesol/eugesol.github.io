@@ -3,6 +3,8 @@ body{
     
 }
 
+/* Nav bar classes */
+
 nav{
     background-color:#faac87;
     font-weight: bolder;
@@ -20,8 +22,10 @@ nav{
 }
 
 a:hover{
-    color: hsl(288, 93%, 82%);
+    color: rgb(219, 109, 247);
 }
+
+/* content classes */
 
 .card{
     background-color: #fff0fd;
@@ -38,11 +42,6 @@ form{
 button{
     align-self: auto;
 }
-/* 
-footer{
-  min-height: 100vh;
-  justify-content: space-between;
-} */
 
 /* Sticky Footer Classes */
 
@@ -57,4 +56,5 @@ body {
 
 #sticky-footer {
   flex-shrink: none;
+  background-color: #faac87;
 }
