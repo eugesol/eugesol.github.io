@@ -1,3 +1,4 @@
+
 body{
     background-image: url("../Images/back.jpg");
     
@@ -56,5 +57,5 @@ body {
 
 #sticky-footer {
   flex-shrink: none;
-  background-color: #faac87;
+
 }
