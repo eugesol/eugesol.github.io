@@ -1,97 +1,92 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Eugenia S.</title>
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
-    <link rel="stylesheet" href="style/style.css">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Eugenia S.</title>
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css"
+    integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
+  <link rel="stylesheet" href="style/style.css">
 </head>
+
 <body>
-    <!-- Nav bar with links to the other pages -->
+  <!-- Nav bar with links to the other pages -->
   <nav class="navbar">
     <span class="navbar-brand mb-0 h1">Eugenia Solana</span>
-        
-      <ul class="nav justify-content-end">
 
-        <li class="nav-item">
-          <a class="nav-link" href="index.html">About</a>
-        </li>
+    <ul class="nav justify-content-end">
 
-        <li class="nav-item">
-          <a class="nav-link active" href="portfolio.html">Portfolio</a>
-        </li>
-         
-        <li class="nav-item">
-          <a class="nav-link" href="contact.html">Contact</a>
-        </li>
-        
-      </ul>
-        
-    </nav>
-    
-    <!-- main portfolio container listing projects with links-->
+      <li class="nav-item">
+        <a class="nav-link" href="index.html">About</a>
+      </li>
 
-    <main class="container">
+      <li class="nav-item">
+        <a class="nav-link active" href="portfolio.html">Portfolio</a>
+      </li>
 
-        <div class="card-group">
+      <li class="nav-item">
+        <a class="nav-link" href="contact.html">Contact</a>
+      </li>
 
-            <div class="card">
-              <a href=blank>
-                <img class="card-img-top" alt="Rock Paper Scissors" src="Images/rps.jpg" width="200" height="200">
-                </a>
-              <div class="card-body">
-                <h5 class="card-title">Rock Paper Scissors</h5>
-                <p class="card-text">A fun practice game we created in class !</p>
-              </div>
-            </div>
+    </ul>
 
-            <div class="card">
-              <a href=blank>
-                <img class="card-img-top" alt="Rock Paper Scissors" src="Images/code.jpg" width="200" height="200">
-                </a>
-              <div class="card-body">
-                <h5 class="card-title">Code Refactor</h5>
-                <p class="card-text">Cleaning up code and using semantic tags to avoid repetition</p>
-              </div>
-            </div>
+  </nav>
 
-            <div class="card">
-              <a href=blank>
-                <img class="card-img-top" alt="Rock Paper Scissors" src="Images/frame.jpg" width="200" height="200">
-                </a>
-              <div class="card-body">
-                <h5 class="card-title">Wireframe</h5>
-                <p class="card-text">Getting to know the wireframe and it's components!</p>
-              </div>
-            </div>
+  <!-- main portfolio container listing projects with links-->
 
-          </div>
+  <main class="container">
 
+    <div class="card-group">
 
-    </main>
-
-    <!-- Copyright sticky footer  -->
-
-    <body class="d-flex flex-column">
-
-      <div id="page-content">
-        <div class="container text-center">
-          <div class="row justify-content-center">
-          </div>
+      <div class="card">
+        <a href=blank>
+          <img class="card-img-top" src="Images/rps.jpg" width="200" height="200">
+        </a>
+        <div class="card-body">
+          <h5 class="card-title">Rock Paper Scissors</h5>
+          <p class="card-text">A fun practice game we created in class !
+          </p>
+          <a href="https://github.com/eugesol/Rock-Paper-Scissors" class="card-link">Repository</a>
         </div>
       </div>
 
-      <footer id="sticky-footer" class="py-4 bg-dark text-white-50">
-        <div class="container text-center">
-          <small>Copyright &copy; Eugenia Solana</small>
+      <div class="card">
+        <a href=" https://eugesol.github.io/Weather/">
+          <img class="card-img-top" src="Images/weather.PNG" width="200" height="200">
+        </a>
+        <div class="card-body">
+          <h5 class="card-title">Weather Dashboard</h5>
+          <p class="card-text">An aplication that will allow the user to search for a city and find out the weather
+            forecast for the the next 5 days.</p>
+          <a href=" https://github.com/eugesol/Weather" class="card-link">Repository</a>
         </div>
-      </footer>
+      </div>
 
-    </body>
+      <div class="card">
+        <a href="https://logantwalker.github.io/Project-01-ByteFinder/index.html">
+          <img class="card-img-top" src="Images/searchRecipe.png" width="200" height="200">
+        </a>
+        <div class="card-body">
+          <h5 class="card-title">ByteFinder App</h5>
+          <p class="card-text">ByteFinder is a website for searching recipes, making shopping lists, and finding near-by stores</p>
+          <a href="https://github.com/logantwalker/Project-01-ByteFinder" class="card-link">Repository</a>
+        </div>
+      </div>
 
-    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
-    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
-    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js" integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI" crossorigin="anonymous"></script>
+    </div>
+
+
+  </main>
+
+
+
+  <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"
+    integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"
+    crossorigin="anonymous"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js"
+    integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI"
+    crossorigin="anonymous"></script>
 </body>
+
 </html>

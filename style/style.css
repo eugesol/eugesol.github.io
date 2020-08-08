@@ -59,3 +59,7 @@ body {
   flex-shrink: none;
 
 }
+
+.card-link{
+    vertical-align: bottom;
+}
