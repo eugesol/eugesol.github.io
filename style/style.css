@@ -48,3 +48,8 @@ button{
 .card-link{
     vertical-align: bottom;
 }
+
+.btn{
+    background-color: #faac87;
+    align-self: center
+}
