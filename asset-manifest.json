@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.431e478a.chunk.css",
+    "main.js": "/static/js/main.49777d1a.chunk.js",
+    "main.js.map": "/static/js/main.49777d1a.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.112f52ad.js",
+    "runtime-main.js.map": "/static/js/runtime-main.112f52ad.js.map",
+    "static/css/2.1a02f21c.chunk.css": "/static/css/2.1a02f21c.chunk.css",
+    "static/js/2.3a35e52d.chunk.js": "/static/js/2.3a35e52d.chunk.js",
+    "static/js/2.3a35e52d.chunk.js.map": "/static/js/2.3a35e52d.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.1a02f21c.chunk.css.map": "/static/css/2.1a02f21c.chunk.css.map",
+    "static/css/main.431e478a.chunk.css.map": "/static/css/main.431e478a.chunk.css.map",
+    "static/js/2.3a35e52d.chunk.js.LICENSE.txt": "/static/js/2.3a35e52d.chunk.js.LICENSE.txt",
+    "static/media/bytefinder.fde9d62c.png": "/static/media/bytefinder.fde9d62c.png",
+    "static/media/emp-track.e075d00b.jpg": "/static/media/emp-track.e075d00b.jpg",
+    "static/media/house.dd3c69aa.jpg": "/static/media/house.dd3c69aa.jpg",
+    "static/media/pic.cf2013ec.png": "/static/media/pic.cf2013ec.png",
+    "static/media/resume.514794ac.pdf": "/static/media/resume.514794ac.pdf",
+    "static/media/tvquiz.489cb4ee.jpg": "/static/media/tvquiz.489cb4ee.jpg",
+    "static/media/weather.d8fe82d9.png": "/static/media/weather.d8fe82d9.png",
+    "static/media/youfo.ace27765.jpg": "/static/media/youfo.ace27765.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.112f52ad.js",
+    "static/css/2.1a02f21c.chunk.css",
+    "static/js/2.3a35e52d.chunk.js",
+    "static/css/main.431e478a.chunk.css",
+    "static/js/main.49777d1a.chunk.js"
+  ]
+}
