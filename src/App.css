@@ -1,0 +1,59 @@
+
+body{
+  background-image: url("../Images/back.jpg");
+  display: flex;
+
+}
+
+/* Nav bar classes */
+
+nav{
+  background-color:#faac87;
+  font-weight: bolder;
+  color:#fff0fd
+}
+
+.navbar-brand{
+  font-size: x-large;
+  padding: 7px 40px 7px 40px;
+  font-weight: bolder;
+}
+
+.nav-link{
+  color:#fff0fd
+}
+
+a:hover{
+  color: rgb(219, 109, 247);
+}
+
+/* content classes */
+
+.card{
+  background-color: #fff0fd;
+  padding: 20px;
+  margin-top: 20px;
+  display: flex;
+  justify-content: center;
+
+}
+
+form{
+  background-color: #fff0fd;
+  padding: 20px;
+  margin-top: 20px;
+}
+
+button{
+  align-self: auto;
+}
+
+
+.card-link{
+  vertical-align: bottom;
+}
+
+.btn{
+  background-color: #faac87;
+  align-self: center
+}
