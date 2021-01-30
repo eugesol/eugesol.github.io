@@ -1,6 +1,6 @@
-import React from 'react';
+import React from 'react'
 import FadeIn from 'react-fade-in';
-import Pic from '../Images/pic.png';
+import Pic from '../Images/pic.png'
 function About() {
     return (
     <FadeIn>

@@ -24,7 +24,7 @@ function Contact() {
        <Card className="row no-gutters">
         <FadeIn>
         <div className="col-md-12 text-center">
-          <a className="card-title" href = "mailto: eugeniasol13@gmail.com">Email me at eugeniasol13@gmail.com</a>
+          <a className="card-title">Email me at eugeniasol13@gmail.com</a>
          
         </div>
         <br></br>
