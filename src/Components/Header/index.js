@@ -11,7 +11,7 @@ function Header(props) {
                 <h1>Eugenia Solana</h1>
             </div>
             </FadeIn>
-            <FadeIn>
+            {/* <FadeIn>
             <ul className="nav justify-content-center">
                 
                 <li className="nav-item">
@@ -35,7 +35,7 @@ function Header(props) {
                 </li>
                 
             </ul>
-            </FadeIn>
+            </FadeIn> */}
         </div>
         </FadeIn>
   );

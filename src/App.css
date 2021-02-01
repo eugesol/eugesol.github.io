@@ -8,7 +8,9 @@ body {
   justify-content: center;
   height: 100vh;
   background-attachment: fixed;
+
 }
+
 
 h4 {
   text-align: center;
@@ -16,7 +18,7 @@ h4 {
 }
 
 .card{
-
+  
   padding: 20px;
   margin-top: 20px;
   display: flex;

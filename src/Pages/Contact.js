@@ -1,7 +1,6 @@
-import React, { useState } from "react";
+import React from "react";
 import FadeIn from 'react-fade-in';
 import Card from "react-bootstrap/Card";
-import CardDeck from "react-bootstrap/CardDeck";
 import Button from "react-bootstrap/Button";
 import Resume from "../Images/resume.pdf"
 

@@ -5,7 +5,7 @@ import Container from './Components/Container'
 import About from "./Pages/About";
 import Portfolio from "./Pages/Portfolio";
 import Contact from "./Pages/Contact";
-import "./App.css";
+import './App.css';
 
 
 
