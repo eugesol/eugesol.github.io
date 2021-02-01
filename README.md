@@ -1,8 +1,3 @@
 # eugesol.github.io
 
-React Portfolio
-
-link to deployed site: 
-
-
-
+Portfolio is being updated. will be back soon
