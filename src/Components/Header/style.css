@@ -26,9 +26,9 @@ a:visited {
 }
 
 a:hover {
-  color: rgb(73, 222, 233) !important;
+  color: rgb(20, 200, 212) !important;
 }
 
 a:active {
-  color: rgb(73, 222, 233) !important;
+  color:rgb(20, 200, 212) !important;
 }
